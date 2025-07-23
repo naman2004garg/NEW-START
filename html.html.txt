@@ -1,3 +1,0 @@
-<html>
-<p>my nme is naman</p>
-</html>
