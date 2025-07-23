@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hi my name is naman
 i live in chandigarh
+MY NAME IS NAMAN
+I LIVE IN CHANDIGARH
+MY HOMETOWN IS BHIWANI
+
+>>>>>>> naman
